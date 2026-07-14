@@ -17,4 +17,4 @@ This is a simple website created using **HTML** and **CSS**. In this project, I 
 - CSS3
 
 ## Author
-**Shayan**
+**Shayan Shakeel**
